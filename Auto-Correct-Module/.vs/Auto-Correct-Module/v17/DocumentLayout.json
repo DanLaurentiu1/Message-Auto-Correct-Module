@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|c:\\users\\lau\\documents\\github\\data-auto-correct-module\\auto-correct-module\\auto-correct-module\\resources.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|solutionrelative:auto-correct-module\\resources.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|c:\\users\\lau\\documents\\github\\data-auto-correct-module\\auto-correct-module\\auto-correct-module\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|solutionrelative:auto-correct-module\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|c:\\users\\lau\\documents\\github\\data-auto-correct-module\\auto-correct-module\\auto-correct-module\\trienode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|solutionrelative:auto-correct-module\\trienode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|c:\\users\\lau\\documents\\github\\data-auto-correct-module\\auto-correct-module\\auto-correct-module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F345BBC2-CFB0-4502-AA7F-0860CC7C0207}|Auto-Correct-Module\\Auto-Correct-Module.csproj|solutionrelative:auto-correct-module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\Program.cs",
+              "RelativeDocumentMoniker": "Auto-Correct-Module\\Program.cs",
+              "ToolTip": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\Program.cs",
+              "RelativeToolTip": "Auto-Correct-Module\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:46:59.144Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "resources.txt",
+              "DocumentMoniker": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\resources.txt",
+              "RelativeDocumentMoniker": "Auto-Correct-Module\\resources.txt",
+              "ToolTip": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\resources.txt",
+              "RelativeToolTip": "Auto-Correct-Module\\resources.txt",
+              "ViewState": "AQIAAJFjAQAAAAAAAAAiwLNjAQAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T14:12:03.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrieNode.cs",
+              "DocumentMoniker": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\TrieNode.cs",
+              "RelativeDocumentMoniker": "Auto-Correct-Module\\TrieNode.cs",
+              "ToolTip": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\TrieNode.cs",
+              "RelativeToolTip": "Auto-Correct-Module\\TrieNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:38:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trie.cs",
+              "DocumentMoniker": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\Trie.cs",
+              "RelativeDocumentMoniker": "Auto-Correct-Module\\Trie.cs",
+              "ToolTip": "C:\\Users\\Lau\\Documents\\GitHub\\Data-Auto-Correct-Module\\Auto-Correct-Module\\Auto-Correct-Module\\Trie.cs",
+              "RelativeToolTip": "Auto-Correct-Module\\Trie.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwIIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:38:03.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

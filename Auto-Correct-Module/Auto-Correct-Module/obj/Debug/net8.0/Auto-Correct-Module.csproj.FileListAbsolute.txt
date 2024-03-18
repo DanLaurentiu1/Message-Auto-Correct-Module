@@ -1,0 +1,15 @@
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.AssemblyInfoInputs.cache
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.AssemblyInfo.cs
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.csproj.CoreCompileInputs.cache
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.sourcelink.json
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\bin\Debug\net8.0\Auto-Correct-Module.exe
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\bin\Debug\net8.0\Auto-Correct-Module.deps.json
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\bin\Debug\net8.0\Auto-Correct-Module.runtimeconfig.json
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\bin\Debug\net8.0\Auto-Correct-Module.dll
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\bin\Debug\net8.0\Auto-Correct-Module.pdb
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.dll
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\refint\Auto-Correct-Module.dll
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.pdb
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\Auto-Correct-Module.genruntimeconfig.cache
+C:\Users\Lau\Documents\GitHub\Data-Auto-Correct-Module\Auto-Correct-Module\Auto-Correct-Module\obj\Debug\net8.0\ref\Auto-Correct-Module.dll
